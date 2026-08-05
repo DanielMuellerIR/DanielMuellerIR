@@ -6,6 +6,8 @@ I build native macOS and iOS apps and small command-line tools. Most projects
 follow the same principles: native UI, offline-capable, scriptable from the
 command line, and as few dependencies as possible.
 
+🌐 Website: [dm0.de](https://dm0.de)
+
 ## 🖥️ macOS apps
 
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Native macOS text editor with unmatched find & replace: *-wildcards, regex mode, diff preview

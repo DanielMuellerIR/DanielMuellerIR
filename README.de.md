@@ -6,6 +6,8 @@ Ich baue native macOS- und iOS-Apps sowie kleine Kommandozeilen-Werkzeuge. Die
 meisten Projekte folgen denselben Prinzipien: native Oberfläche, offline-fähig,
 per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 
+🌐 Website: [dm0.de](https://dm0.de)
+
 ## 🖥️ macOS-Apps
 
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Nativer macOS-Texteditor mit besonders mächtigem Suchen & Ersetzen: *-Wildcards, Regex-Modus, Diff-Vorschau
