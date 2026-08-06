@@ -40,4 +40,4 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 
 ## 🍴 Forks
 
-- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Claude die Fähigkeit geben, beliebige Videos anzusehen (Fork)
+- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Claude die Fähigkeit geben, beliebige Videos anzusehen — Fork von [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
