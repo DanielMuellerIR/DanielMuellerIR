@@ -18,7 +18,7 @@ command line, and as few dependencies as possible.
 
 ## 🎵 Audio & music
 
-- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — Tracker player for MOD, S3M, XM and IT with an independent Swift replay engine, live scopes and WAV export (macOS + iPhone)
+- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — Tracker player for MOD, S3M, XM and IT with an independent Swift replay engine and live scopes (macOS + iPhone; WAV export on macOS)
 - 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore 64 SID chiptune player — single-file HTML5 version and native macOS app with real-time oscilloscope
 - 📻 **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** — Native macOS internet-radio player with themed, audio-reactive visualizers (SwiftUI + VLCKit)
 - 📱 **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** — Native iPhone internet-radio player — the iPhone sibling of Mucke, Baby! (SwiftUI + AVPlayer)
