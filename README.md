@@ -40,4 +40,4 @@ command line, and as few dependencies as possible.
 
 ## 🍴 Forks
 
-- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Give Claude the ability to watch any video (fork)
+- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Give Claude the ability to watch any video — fork of [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
