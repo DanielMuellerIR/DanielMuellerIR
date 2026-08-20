@@ -14,11 +14,11 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 - 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Indexfreie Dateisuche für macOS, die auch in Archive hineinschaut (zip, jar, docx, epub, tar, …) — CLI, native GUI und Finder-Schnellsuche
 - 🎙️ **[stille_post](https://github.com/DanielMuellerIR/stille_post)** — Lokales Diktat für macOS: Whisper-Spracherkennung plus ehrliche LLM-Korrektur, die nie umformuliert — komplett offline-fähig, Headless-CLI inklusive
 - 🏷️ **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** — Medien-Metadaten ansehen und bearbeiten: Audio-Tags, EXIF/IPTC/XMP, Video-Tags, E-Book-Metadaten — App und CLI
-- 📋 **[md-clip](https://github.com/DanielMuellerIR/md-clip)** — Inhalt der macOS-Zwischenablage in sauberes Markdown umwandeln — CLI, Dock-App und globaler Hotkey
+- 📋 **[md-clip](https://github.com/DanielMuellerIR/md-clip)** — Inhalt der macOS-Zwischenablage in sauberes Markdown umwandeln — CLI und Dock-App; ein globaler Hotkey lässt sich über Kurzbefehle.app einrichten
 
 ## 🎵 Audio & Musik
 
-- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — Tracker-Player für MOD, S3M, XM und IT mit eigenständiger Swift-Replay-Engine und Live-Scopes (macOS + iPhone; WAV-Export unter macOS)
+- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — Player für Tracker-Module unter macOS und iOS
 - 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore-64-SID-Chiptune-Player — HTML5-Version in einer Datei und native macOS-App mit Echtzeit-Oszilloskop
 - 📻 **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** — Nativer macOS-Internetradio-Player mit thematischen, audio-reaktiven Visualizern (SwiftUI + VLCKit)
 - 📱 **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** — Nativer iPhone-Internetradio-Player — das iPhone-Geschwister von Mucke, Baby! (SwiftUI + AVPlayer)

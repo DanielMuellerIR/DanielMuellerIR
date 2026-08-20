@@ -1,0 +1,26 @@
+name: README parity
+
+on:
+  push:
+    paths:
+      - README.md
+      - README.de.md
+      - scripts/check_readme_links.py
+      - .github/workflows/readme-parity.yml
+  pull_request:
+    paths:
+      - README.md
+      - README.de.md
+      - scripts/check_readme_links.py
+      - .github/workflows/readme-parity.yml
+
+permissions:
+  contents: read
+
+jobs:
+  check-links:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Compare GitHub links
+        run: python3 scripts/check_readme_links.py
