@@ -1,1 +1,3 @@
 .commit-lock
+.venv/
+__pycache__/
