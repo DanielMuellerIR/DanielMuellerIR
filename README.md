@@ -11,15 +11,16 @@ command line, and as few dependencies as possible.
 ## 🖥️ macOS apps
 
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Native macOS text editor with `*`/regex replacement previews, Git tools, 4D support and local Markdown preview
-- 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Index-free macOS search for file names and contents, including nested archives — image-size filters, optional metadata search, CLI, native GUI and Finder quick search
+- 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Index-free macOS file search, including nested archives and document text, with optional local OCR and duplicate checks — CLI, native GUI and Finder quick search
 - 🎙️ **[stille_post](https://github.com/DanielMuellerIR/stille_post)** — Whisper dictation for macOS with local speech recognition, checked LLM cleanup, global hotkey, history and CLI — optional iPhone dictation over the home network
 - 🏷️ **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** — Native macOS metadata editor for audio, images (EXIF/IPTC/XMP), video and e-books, with batch editing and CLI — read-only inspection of electronic invoices
 - 📋 **[md-clip](https://github.com/DanielMuellerIR/md-clip)** — Convert formatted clipboard text to Markdown on macOS and Linux — CLI on both platforms, macOS Dock app; macOS hotkeys via Apple Shortcuts
+- 🖼️ **[jpegdrop](https://github.com/DanielMuellerIR/jpegdrop)** — Drop images or folders onto the macOS Dock icon to create metadata-free JPEG, PNG, AVIF or WebP copies, with presets, resizing and output options
 
 ## 🎵 Audio & music
 
-- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — MOD/S3M/XM/IT player with its own Swift replay engine — native macOS and iPhone apps, Linux CLI, macOS Quick Look and WAV export, plus a compact HTML5 MOD player
-- 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore 64 SID player — native macOS and iPhone apps, Linux CLI and standalone HTML5 player; macOS oscilloscope and Finder Quick Look previews
+- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — MOD/S3M/XM/IT player with its own Swift replay engine — native macOS and iPhone apps, Linux CLI and HTML5 MOD player; macOS piano roll, WAV/channel stem export and Quick Look
+- 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore 64 SID player — native macOS and iPhone apps with library management, piano/register views and WAV/FLAC/M4A export; Linux CLI, HTML5 player and macOS Quick Look
 - 📻 **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** — Native macOS internet radio with audio-reactive themes, play history and optional stream recording with per-song extraction (SwiftUI + VLCKit)
 - 📱 **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** — Native iPhone internet radio with background playback, lock-screen controls, track history and Apple Music/Spotify lookup — the iPhone sibling of Mucke, Baby!
 - 📚 **[hoerbuchkloeppler](https://github.com/DanielMuellerIR/hoerbuchkloeppler)** — Turn loose audio files into .m4b audiobooks with chapters, cover art and tags — macOS SwiftUI app and CLI
@@ -29,6 +30,7 @@ command line, and as few dependencies as possible.
 - 🧱 **[steinregen](https://github.com/DanielMuellerIR/steinregen)** — Native falling-block puzzle game with six deterministic modes and a raw black-metal aesthetic (macOS + iOS)
 - 🚀 **[exploids](https://github.com/DanielMuellerIR/exploids)** — Native macOS Asteroids-style vector shooter with two modes, nine power-ups, synthesized sound and two bosses — deterministic replays with headless GIF export
 - 🌀 **[FraktalLab](https://github.com/DanielMuellerIR/FraktalLab)** — Browser-based showcase with WebGL 2D/3D fractals, demoscene effects, voxel terrain and MOD/SID audio in an automatically arranged panel grid
+- 🧠 **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** — Browser-based knowledge quiz with eight subject areas, interactive visualisations and local spaced-repetition progress — no account required
 
 ## 🧰 Command-line & developer tools
 
@@ -40,4 +42,4 @@ command line, and as few dependencies as possible.
 
 ## 🍴 Forks
 
-- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Video frames and transcripts for Claude and Codex, with optional local Whisper transcription — fork of [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
+- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Video frames, transcripts and OCR textframes for Claude and Codex, with optional local Whisper transcription — fork of [bradautomates/claude-video](https://github.com/bradautomates/claude-video)

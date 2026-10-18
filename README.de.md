@@ -11,15 +11,16 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 ## 🖥️ macOS-Apps
 
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Nativer macOS-Texteditor mit Ersetzungsvorschau für `*`/Regex, Git-Werkzeugen, 4D-Unterstützung und lokaler Markdown-Vorschau
-- 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Indexfreie macOS-Suche nach Dateinamen und Inhalten, auch in verschachtelten Archiven — Bildgrößenfilter, optionale Metadatensuche, CLI, native GUI und Finder-Schnellsuche
+- 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Indexfreie macOS-Dateisuche, auch in verschachtelten Archiven und Dokumenttext, mit optionaler lokaler OCR und Duplikatprüfung — CLI, native GUI und Finder-Schnellsuche
 - 🎙️ **[stille_post](https://github.com/DanielMuellerIR/stille_post)** — Whisper-Diktat für macOS mit lokaler Spracherkennung, geprüfter LLM-Korrektur, globalem Hotkey, Verlauf und CLI — optional iPhone-Diktate über das Heimnetz
 - 🏷️ **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** — Nativer macOS-Metadateneditor für Audio, Bilder (EXIF/IPTC/XMP), Video und E-Books, mit Stapelbearbeitung und CLI — E-Rechnungen ausschließlich lesend prüfen
 - 📋 **[md-clip](https://github.com/DanielMuellerIR/md-clip)** — Formatierten Text aus der Zwischenablage unter macOS und Linux in Markdown umwandeln — CLI auf beiden Plattformen, macOS-Dock-App; macOS-Hotkeys über Kurzbefehle.app
+- 🖼️ **[jpegdrop](https://github.com/DanielMuellerIR/jpegdrop)** — Bilder oder Ordner auf das macOS-Dock-Icon ziehen und JPEG-, PNG-, AVIF- oder WebP-Kopien ohne Metadaten erzeugen, mit Vorgaben, Größenanpassung und wählbarem Ausgabeort
 
 ## 🎵 Audio & Musik
 
-- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — MOD/S3M/XM/IT-Player mit eigener Wiedergabe-Engine in Swift — native macOS- und iPhone-Apps, Linux-CLI, macOS-Quick-Look und WAV-Export sowie kompakter HTML5-MOD-Player
-- 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore-64-SID-Player — native macOS- und iPhone-Apps, Linux-CLI und eigenständiger HTML5-Player; macOS-Oszilloskop und Finder-Quick-Look-Vorschau
+- 🎼 **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** — MOD/S3M/XM/IT-Player mit eigener Wiedergabe-Engine in Swift — native macOS- und iPhone-Apps, Linux-CLI und HTML5-MOD-Player; unter macOS Notenregen, WAV-/Einzelkanalexport und Quick Look
+- 🎹 **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** — Commodore-64-SID-Player — native macOS- und iPhone-Apps mit Sammlungsverwaltung, Klaviatur-/Registeransicht und WAV-/FLAC-/M4A-Export; Linux-CLI, HTML5-Player und macOS-Quick-Look
 - 📻 **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** — Natives macOS-Internetradio mit auf Audio reagierenden Themes, Titelverlauf und optionaler Stream-Aufnahme mit Einzelstück-Extraktion (SwiftUI + VLCKit)
 - 📱 **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** — Natives iPhone-Internetradio mit Hintergrundwiedergabe, Sperrbildschirm-Steuerung, Titelverlauf und Apple-Music-/Spotify-Suche — das iPhone-Geschwister von Mucke, Baby!
 - 📚 **[hoerbuchkloeppler](https://github.com/DanielMuellerIR/hoerbuchkloeppler)** — Lose Audiodateien zu .m4b-Hörbüchern mit Kapiteln, Cover und Tags zusammenfügen — macOS-SwiftUI-App und CLI
@@ -29,6 +30,7 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 - 🧱 **[steinregen](https://github.com/DanielMuellerIR/steinregen)** — Natives Fallende-Blöcke-Puzzle mit sechs deterministischen Modi und roher Black-Metal-Ästhetik (macOS + iOS)
 - 🚀 **[exploids](https://github.com/DanielMuellerIR/exploids)** — Nativer macOS-Vektor-Shooter im Asteroids-Stil mit zwei Modi, neun Power-ups, synthetisiertem Sound und zwei Bossen — deterministische Replays mit GIF-Export ohne GUI
 - 🌀 **[FraktalLab](https://github.com/DanielMuellerIR/FraktalLab)** — Browser-Showcase mit WebGL-2D-/3D-Fraktalen, Demoszene-Effekten, Voxel-Terrain und MOD/SID-Audio in einem automatisch angeordneten Panel-Raster
+- 🧠 **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** — Wissensquiz im Browser mit acht Themengebieten, interaktiven Visualisierungen und lokal gespeichertem Lernfortschritt mit verteilten Wiederholungen — ohne Konto
 
 ## 🧰 Kommandozeilen- & Entwickler-Werkzeuge
 
@@ -40,4 +42,4 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 
 ## 🍴 Forks
 
-- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Video-Frames und Transkripte für Claude und Codex, mit optionaler lokaler Whisper-Transkription — Fork von [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
+- 🎬 **[claude-video](https://github.com/DanielMuellerIR/claude-video)** — Video-Frames, Transkripte und OCR-Texterkennung aus Videobildern für Claude und Codex, mit optionaler lokaler Whisper-Transkription — Fork von [bradautomates/claude-video](https://github.com/bradautomates/claude-video)
