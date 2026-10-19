@@ -28,10 +28,10 @@ My website: [dm0.de](https://dm0.de)
 
 ## Games and graphics
 
-- **[steinregen](https://github.com/DanielMuellerIR/steinregen)** is a falling-block puzzle for macOS and iPhone with six game modes and a black-metal aesthetic.
+- **[steinregen](https://github.com/DanielMuellerIR/steinregen)** is a falling-block puzzle for macOS and iPhone with six game modes and a black-metal aesthetic. It includes 13 instrumental metal tracks for background music.
 - **[exploids](https://github.com/DanielMuellerIR/exploids)** is a macOS vector shooter in the style of Asteroids, with two modes, nine power-ups and two bosses. Replays can be exported as GIFs without opening the app.
 - **[FraktalLab](https://github.com/DanielMuellerIR/FraktalLab)** runs in the browser. It combines WebGL fractals, demoscene effects, voxel terrain and MOD/SID audio in a grid of panels.
-- **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** is a browser quiz covering eight subject areas, with interactive visualizations and spaced repetition. Learning progress stays in the browser; no account is required.
+- **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** is a browser quiz with over 50,000 questions across eight subject areas. It includes interactive visualizations and spaced repetition. Learning progress stays in the browser; no account is required.
 
 ## Command-line and developer tools
 
