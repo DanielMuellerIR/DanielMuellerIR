@@ -58,7 +58,3 @@ gehört nicht automatisch zur Linux-Version.
 - **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** bietet den Kommandozeilenplayer `vicious-sid` mit ALSA-Ausgabe, WAV-Export und Mediensteuerung des Desktops.
 - **[gitmaster_flash](https://github.com/DanielMuellerIR/gitmaster_flash)** betreibt seine Terminaloberfläche unter Linux mit Python, Git und curses. Das Öffnen von macOS-Apps ist auf macOS beschränkt.
 - **[claude-video](https://github.com/DanielMuellerIR/claude-video)** unterstützt das Extrahieren von Videobildern und Transkripten unter Linux. Die Texterkennung in Videobildern bleibt macOS vorbehalten.
-
-Die Browserprojekte **[FraktalLab](https://github.com/DanielMuellerIR/FraktalLab)**
-und **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** lassen sich
-auch unter Linux in einem kompatiblen Browser nutzen.

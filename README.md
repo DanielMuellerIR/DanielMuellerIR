@@ -57,7 +57,3 @@ command-line tools; a Linux version does not imply the macOS interface is availa
 - **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** provides the `vicious-sid` command-line player with ALSA audio, WAV export and desktop media controls.
 - **[gitmaster_flash](https://github.com/DanielMuellerIR/gitmaster_flash)** runs its terminal interface on Linux with Python, Git and curses. Opening macOS apps is specific to macOS.
 - **[claude-video](https://github.com/DanielMuellerIR/claude-video)** supports frame extraction and transcription on Linux. Video-frame text recognition remains macOS-only.
-
-The browser projects **[FraktalLab](https://github.com/DanielMuellerIR/FraktalLab)**
-and **[Scientia](https://github.com/DanielMuellerIR/ScientiaPotentia)** can also be
-used on Linux in a compatible browser.
