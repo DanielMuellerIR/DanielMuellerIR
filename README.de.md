@@ -10,7 +10,7 @@ per Kommandozeile skriptbar und mit so wenig Abhängigkeiten wie möglich.
 
 ## 🖥️ Desktop-Apps
 
-- ✈️ **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** — Dateimanager mit zwei Panes für macOS und Linux: Kopieren, Verschieben, Sync-Vorschau, Remote-Verbindungen und gemeinsamem GUI-/CLI-Kern; erste öffentliche Preview
+- ✈️ **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** — Dateimanager für macOS und Linux mit zwei Panes, Kopieren und Verschieben, Sync-Vorschau, Remote-Verbindungen und gemeinsamem GUI-/CLI-Kern; erste öffentliche Preview
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Nativer macOS-Texteditor mit Ersetzungsvorschau für `*`/Regex, Git-Werkzeugen, 4D-Unterstützung und lokaler Markdown-Vorschau
 - 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Indexfreie macOS-Dateisuche, auch in verschachtelten Archiven und Dokumenttext, mit optionaler lokaler OCR und Duplikatprüfung — CLI, native GUI und Finder-Schnellsuche
 - 🎙️ **[stille_post](https://github.com/DanielMuellerIR/stille_post)** — Whisper-Diktat für macOS mit lokaler Spracherkennung, geprüfter LLM-Korrektur, globalem Hotkey, Verlauf und CLI — optional iPhone-Diktate über das Heimnetz
