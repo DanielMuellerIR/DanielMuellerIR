@@ -8,8 +8,9 @@ command line, and as few dependencies as possible.
 
 🌐 Website: [dm0.de](https://dm0.de)
 
-## 🖥️ macOS apps
+## 🖥️ Desktop apps
 
+- ✈️ **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** — Dual-pane file manager for macOS and Linux, with copy/move, previewed synchronization, remote connections and a shared GUI/CLI core; first public preview
 - 📝 **[fastra](https://github.com/DanielMuellerIR/fastra)** — Native macOS text editor with `*`/regex replacement previews, Git tools, 4D support and local Markdown preview
 - 🔍 **[favenio](https://github.com/DanielMuellerIR/favenio)** — Index-free macOS file search, including nested archives and document text, with optional local OCR and duplicate checks — CLI, native GUI and Finder quick search
 - 🎙️ **[stille_post](https://github.com/DanielMuellerIR/stille_post)** — Whisper dictation for macOS with local speech recognition, checked LLM cleanup, global hotkey, history and CLI — optional iPhone dictation over the home network
