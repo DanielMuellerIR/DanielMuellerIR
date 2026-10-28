@@ -1,4 +1,4 @@
-**Sprache / Language:** [English](README.md) · [Deutsch](README.de.md)
+**🌐 Sprache / Language:** [English](README.md) · [Deutsch](README.de.md)
 
 # Hallo, ich bin Daniel
 
