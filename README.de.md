@@ -2,9 +2,10 @@
 
 # Hallo, ich bin Daniel
 
-Ich entwickle Apps für macOS und iPhone sowie Kommandozeilen-Werkzeuge für macOS
-und Linux. Die meisten meiner Projekte funktionieren offline. Ich bevorzuge native
-Oberflächen und halte Abhängigkeiten möglichst klein.
+Ich entwickle Desktop-Apps für macOS
+und Linux sowie iPhone-Apps und Kommandozeilen-Werkzeuge. Die meisten meiner
+Projekte funktionieren offline. Ich bevorzuge native Oberflächen und halte
+Abhängigkeiten möglichst klein.
 
 Meine Website: [dm0.de](https://dm0.de)
 
@@ -22,7 +23,7 @@ Meine Website: [dm0.de](https://dm0.de)
 
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** spielt MOD-, S3M-, XM- und IT-Musik mit einer in Swift geschriebenen Wiedergabe-Engine. Es gibt Apps für macOS und iPhone, einen Linux-Kommandozeilenplayer und einen HTML5-MOD-Player. Die macOS-App bietet einen Notenregen und WAV-Export, auch für einzelne Kanäle.
 - **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** spielt Commodore-64-SID-Musik. Die Apps für macOS und iPhone bieten eine Sammlungsverwaltung sowie Klaviatur- und Registeransichten. Dazu kommen ein Linux-Kommandozeilenplayer und ein HTML5-Player.
-- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** ist ein Internetradio für macOS. Seine Themes reagieren auf die Musik. Die App kann Streams aufnehmen und einzelne Titel daraus heraustrennen.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** ist eine native Internetradio-App für macOS und Linux. Ihre sieben Themes reagieren auf die Musik; Streams lassen sich aufnehmen und einzelne Songs exportieren.
 - **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** ist das iPhone-Geschwister von Mucke, Baby! Es spielt Radio im Hintergrund, lässt sich über den Sperrbildschirm steuern und führt einen Titelverlauf mit Apple-Music- und Spotify-Suche.
 - **[hoerbuchkloeppler](https://github.com/DanielMuellerIR/hoerbuchkloeppler)** fügt Audiodateien zu `.m4b`-Hörbüchern mit Kapiteln, Cover und Tags zusammen. Es gibt eine macOS-App und eine Kommandozeile.
 
@@ -52,6 +53,7 @@ Desktop-App oder ein Kommandozeilen-Werkzeug verfügbar ist. Die macOS-Oberfläc
 gehört nicht automatisch zur Linux-Version.
 
 - **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** bietet eine Desktop-App und eine Kommandozeile, mit DEB- und AppImage-Paketen für x86_64.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** bietet eine native Qt-6-Desktop-App für x86-64 mit sieben Themes, Titelverlauf, optionaler Aufnahme, M4A-Songexport und MPRIS-Mediensteuerung. Ein TAR.GZ-Installer ist verfügbar; Qt und libVLC 3 kommen aus Systempaketen.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** stellt seine Metadatenbibliothek und das Kommandozeilen-Werkzeug für Linux bereit. Die grafische App gibt es nur für macOS.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** wandelt Zwischenablage-Inhalte per Kommandozeile in Markdown um und unterstützt X11 und Wayland.
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** spielt Tracker-Musik im Terminal über ALSA und unterstützt die Mediensteuerung des Desktops. Ein AppImage-Build ist verfügbar.

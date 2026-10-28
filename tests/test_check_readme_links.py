@@ -36,7 +36,7 @@ class ReadmeLinksTests(unittest.TestCase):
             (REPO_ROOT / "README.de.md").read_text(encoding="utf-8"),
         )
         self.assertEqual(result, 0)
-        self.assertIn("30 GitHub-Links", output)
+        self.assertIn("31 GitHub-Links", output)
 
     def test_commented_project_in_actual_readme_fails(self):
         english = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
@@ -151,7 +151,7 @@ class ReadmeLinksTests(unittest.TestCase):
             cwd=self.directory.name, capture_output=True, text=True,
         )
         self.assertEqual(result.returncode, 0, result.stderr)
-        self.assertIn("30 GitHub-Links", result.stdout)
+        self.assertIn("31 GitHub-Links", result.stdout)
 
     def test_wrong_argument_count_fails(self):
         for arguments in [["one"], ["one", "two", "three"]]:

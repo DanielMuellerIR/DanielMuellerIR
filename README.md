@@ -2,7 +2,7 @@
 
 # Hi, I'm Daniel
 
-I build apps for macOS and iPhone, plus command-line tools for macOS and Linux.
+I build desktop apps for macOS and Linux, iPhone apps, and command-line tools.
 Most of my projects work offline. I prefer native interfaces and keep
 dependencies small where practical.
 
@@ -22,7 +22,7 @@ My website: [dm0.de](https://dm0.de)
 
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** plays MOD, S3M, XM and IT music with a replay engine written in Swift. There are macOS and iPhone apps, a Linux command-line player and an HTML5 MOD player. The macOS app includes a piano roll and WAV export, including separate channels.
 - **[vicious-sidplayer](https://github.com/DanielMuellerIR/vicious-sidplayer)** plays Commodore 64 SID music. The macOS and iPhone apps have library management and piano and register views. A Linux command-line player and an HTML5 player are also available.
-- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** is an internet radio app for macOS. Its visual themes react to the audio, and it can record streams and extract individual songs.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** is a native internet radio app for macOS and Linux. Its seven visual themes react to the audio, and it can record streams and export individual songs.
 - **[baby_mucke](https://github.com/DanielMuellerIR/baby_mucke)** is the iPhone sibling of Mucke, Baby! It plays radio in the background, supports lock-screen controls and keeps a track history with Apple Music and Spotify lookup.
 - **[hoerbuchkloeppler](https://github.com/DanielMuellerIR/hoerbuchkloeppler)** combines audio files into `.m4b` audiobooks with chapters, cover art and tags. It has a macOS app and a command-line interface.
 
@@ -51,6 +51,7 @@ These projects also run on Linux. The list distinguishes desktop apps from
 command-line tools; a Linux version does not imply the macOS interface is available.
 
 - **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** has a desktop app and command-line interface, with DEB and AppImage packages for x86_64.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** has a native Qt 6 desktop app for x86-64, with seven themes, listening history, optional recording, M4A song export and MPRIS media controls. A TAR.GZ installer is available; Qt and libVLC 3 come from system packages.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** provides its metadata library and command-line tool on Linux. The graphical app is macOS-only.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** converts clipboard content to Markdown from the command line, with X11 and Wayland support.
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** plays tracker music from the terminal through ALSA and supports desktop media controls. An AppImage build is available.
