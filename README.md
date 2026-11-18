@@ -36,7 +36,7 @@ My website: [dm0.de](https://dm0.de)
 ## Command-line and developer tools
 
 - **[gitmaster_flash](https://github.com/DanielMuellerIR/gitmaster_flash)** shows the Git repositories below a directory in a terminal interface for macOS and Linux. Inspect changes, branches, worktrees and stashes; apply, pop or delete stashes after preview and confirmation. Its Python core uses only the standard library.
-- **[poormans_text](https://github.com/DanielMuellerIR/poormans_text)** converts documents, spreadsheets, presentations, PDFs, images, e-books, email and notebooks to Markdown. It has a macOS app, CLI, profiles and local text recognition. A Linux development preview includes a CLI and optional GTK interface.
+- **[poormans_text](https://github.com/DanielMuellerIR/poormans_text)** converts documents, spreadsheets, presentations, PDFs, images, e-books, email and notebooks to Markdown. The [macOS release](https://github.com/DanielMuellerIR/poormans_text/releases/latest) includes the native app and CLI, with profiles and local text recognition. The [Linux development build](https://github.com/DanielMuellerIR/poormans_text/blob/main/docs/LINUX-BUILD.md) provides a CLI and an optional GTK app.
 - **[ncpin](https://github.com/DanielMuellerIR/ncpin)** sets Nextcloud virtual files to stay local or remain online-only on macOS. It provides a command-line tool, Finder droplets and Quick Actions, including support for Nextcloud Desktop 34 and later.
 - **[firefox-tabs-save-and-restore](https://github.com/DanielMuellerIR/firefox-tabs-save-and-restore)** provides `fftabs` for saving, restoring and managing Firefox tabs on macOS. It has a command-line interface and a native app, without additional dependencies.
 - **[opencode-minimax](https://github.com/DanielMuellerIR/opencode-minimax)** documents how to configure MiniMax and other Anthropic-compatible models in OpenCode, including the pitfalls of custom providers.
@@ -62,4 +62,4 @@ command-line tools; a Linux version does not imply the macOS interface is availa
 - **[favenio](https://github.com/DanielMuellerIR/favenio)** has Rust/GTK search and quick-search windows with signed packages; desktop integration has been tested on X11 and Wayland.
 - **[stille_post](https://github.com/DanielMuellerIR/stille_post)** has a dictation app with a signed update channel. Tests used artificial audio sources; physical-device acceptance and extended daily use are still pending.
 
-Fastra and Poor Man’s Text also have Linux development builds with remaining feature or acceptance limits; their READMEs describe the scope.
+Fastra’s README describes the scope and current limits of its Linux development build.

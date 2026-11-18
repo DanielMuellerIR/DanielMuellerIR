@@ -37,7 +37,7 @@ Meine Website: [dm0.de](https://dm0.de)
 ## Kommandozeile und Entwickler-Werkzeuge
 
 - **[gitmaster_flash](https://github.com/DanielMuellerIR/gitmaster_flash)** zeigt die Git-Repositories unterhalb eines Verzeichnisses in einer Terminaloberfläche für macOS und Linux. Änderungen, Branches, Worktrees und Stashes lassen sich prüfen; Stashes nach Vorschau und Bestätigung anwenden, poppen oder löschen. Der Python-Kern nutzt nur die Standardbibliothek.
-- **[poormans_text](https://github.com/DanielMuellerIR/poormans_text)** konvertiert Dokumente, Tabellen, Präsentationen, PDFs, Bilder, E-Books, E-Mails und Notebooks nach Markdown. Es bietet eine macOS-App, Kommandozeile, Profile und lokale Texterkennung. Für Linux gibt es einen Entwicklungsstand mit CLI und optionaler GTK-Vorschau.
+- **[poormans_text](https://github.com/DanielMuellerIR/poormans_text)** konvertiert Dokumente, Tabellen, Präsentationen, PDFs, Bilder, E-Books, E-Mails und Notebooks nach Markdown. Der [macOS-Release](https://github.com/DanielMuellerIR/poormans_text/releases/latest) enthält die native App und die CLI mit Profilen und lokaler Texterkennung. Der [Linux-Entwicklungsbuild](https://github.com/DanielMuellerIR/poormans_text/blob/main/docs/LINUX-BUILD.md) bietet eine CLI und eine optionale GTK-App.
 - **[ncpin](https://github.com/DanielMuellerIR/ncpin)** legt unter macOS fest, ob virtuelle Nextcloud-Dateien lokal bleiben oder nur online vorliegen. Es bietet eine Kommandozeile, Finder-Droplets und Schnellaktionen, auch für Nextcloud Desktop ab Version 34.
 - **[firefox-tabs-save-and-restore](https://github.com/DanielMuellerIR/firefox-tabs-save-and-restore)** stellt `fftabs` bereit, um Firefox-Tabs unter macOS zu sichern, wiederherzustellen und zu verwalten. Es gibt eine Kommandozeile und eine native App, ohne zusätzliche Abhängigkeiten.
 - **[opencode-minimax](https://github.com/DanielMuellerIR/opencode-minimax)** beschreibt die Einrichtung von MiniMax und anderen Anthropic-kompatiblen Modellen in OpenCode, einschließlich der Stolperfallen eigener Provider.
@@ -64,4 +64,4 @@ gehört nicht automatisch zur Linux-Version.
 - **[favenio](https://github.com/DanielMuellerIR/favenio)** bietet Hauptfenster und Schnellsuche mit Rust/GTK sowie signierte Pakete; die Desktop-Anbindung ist unter X11 und Wayland geprüft.
 - **[stille_post](https://github.com/DanielMuellerIR/stille_post)** bietet eine Diktier-App mit signiertem Updatekanal. Prüfungen mit künstlichen Audioquellen sind erfolgt; physische Geräteabnahme und mehrtägiger Betrieb stehen noch aus.
 
-Fastra und Poor Man’s Text haben zusätzlich Linux-Entwicklungsstände mit noch offenen Funktions- oder Abnahmegrenzen; die jeweiligen READMEs beschreiben den Umfang.
+Fastras README beschreibt den Umfang und die aktuellen Grenzen seines Linux-Entwicklungsbuilds.
