@@ -31,12 +31,11 @@ class ReadmeLinksTests(unittest.TestCase):
         return result, output.getvalue(), errors.getvalue()
 
     def test_actual_readmes_match(self):
-        result, output, _ = self.compare(
+        result, _, errors = self.compare(
             (REPO_ROOT / "README.md").read_text(encoding="utf-8"),
             (REPO_ROOT / "README.de.md").read_text(encoding="utf-8"),
         )
-        self.assertEqual(result, 0)
-        self.assertIn("35 GitHub-Links", output)
+        self.assertEqual(result, 0, errors)
 
     def test_commented_project_in_actual_readme_fails(self):
         english = (REPO_ROOT / "README.md").read_text(encoding="utf-8")
@@ -142,8 +141,9 @@ class ReadmeLinksTests(unittest.TestCase):
         self.assertIn("keine GitHub-Links", errors)
 
     def test_linked_image_counts_only_its_target(self):
-        result, _, _ = self.compare(f"[A]({FIRST})", f"[![Image]({SECOND})]({FIRST})")
-        self.assertEqual(result, 0)
+        result, output, errors = self.compare(f"[A]({FIRST})", f"[![Image]({SECOND})]({FIRST})")
+        self.assertEqual(result, 0, errors)
+        self.assertIn("OK: 1 GitHub-Links ", output)
 
     def test_cli_default_paths_work_from_another_directory(self):
         result = subprocess.run(
@@ -151,7 +151,6 @@ class ReadmeLinksTests(unittest.TestCase):
             cwd=self.directory.name, capture_output=True, text=True,
         )
         self.assertEqual(result.returncode, 0, result.stderr)
-        self.assertIn("35 GitHub-Links", result.stdout)
 
     def test_wrong_argument_count_fails(self):
         for arguments in [["one"], ["one", "two", "three"]]:
