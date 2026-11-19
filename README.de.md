@@ -11,9 +11,9 @@ Meine Website: [dm0.de](https://dm0.de)
 
 ## Produktivität
 
-- **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** ist ein Dateimanager für macOS und Linux mit zwei Dateibereichen. Er kopiert und verschiebt Dateien, zeigt eine Sync-Vorschau und verbindet sich mit entfernten Servern. Erste öffentliche Preview.
+- **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** ist ein Dateimanager für macOS und Linux mit zwei Dateibereichen. Er kopiert und verschiebt Dateien lokal und auf entfernten Servern, speichert Sync-Aufträge und zeigt eine Vorschau der geplanten Änderungen. Er kann unterbrochene Übertragungen fortsetzen und ZIP- und TAR-Archive durchsuchen und entpacken.
 - **[fastra](https://github.com/DanielMuellerIR/fastra)** ist ein nativer macOS-Texteditor mit Ersetzungsvorschau, Git-Werkzeugen, 4D-Unterstützung und lokaler Markdown-Bearbeitung. Eine Linux-App mit Rust/GTK ist in Entwicklung; sie bietet noch nicht alle Mac-Funktionen.
-- **[favenio](https://github.com/DanielMuellerIR/favenio)** sucht Dateien ohne vorherigen Indexaufbau, auch in Dokumenttexten und verschachtelten Archiven. Es gibt Desktop-Apps für macOS und Linux sowie eine Kommandozeile; am Mac kommt die Finder-Schnellsuche hinzu.
+- **[favenio](https://github.com/DanielMuellerIR/favenio)** sucht Dateien ohne vorherigen Indexaufbau, auch in Dokumenttexten und verschachtelten Archiven. Auf Wunsch erkennt die Dokumentsuche auch Text in Screenshots, die in PowerPoint-Dateien eingebettet sind. Es gibt Desktop-Apps für macOS und Linux sowie eine Kommandozeile. Am Mac kommt die Finder-Schnellsuche hinzu.
 - **[stille_post](https://github.com/DanielMuellerIR/stille_post)** wandelt unter macOS und Linux Sprache lokal mit Whisper in Text um. Hotkey, Diktierprofile, durchsuchbarer Verlauf, optionale Textbereinigung und Ergebnisvorschau sind enthalten. Die Linux-Geräteabnahme steht noch aus.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** bearbeitet Metadaten in Audio, Bildern, Video und E-Books, einzeln oder im Stapel. Desktop-Apps für macOS und Linux und das Kommandozeilen-Werkzeug prüfen außerdem E-Rechnungen, ohne sie zu verändern.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** wandelt formatierten Text aus der Zwischenablage in Markdown um. Die Kommandozeile läuft unter macOS und Linux; für macOS gibt es auch eine Dock-App.
@@ -53,7 +53,7 @@ Desktop-App oder ein Kommandozeilen-Werkzeug verfügbar ist. Die macOS-Oberfläc
 gehört nicht automatisch zur Linux-Version.
 
 - **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** bietet eine Desktop-App und eine Kommandozeile, mit DEB- und AppImage-Paketen für x86_64.
-- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** bietet eine native Qt-6-Desktop-App für x86-64 mit sieben Themes, Titelverlauf, optionaler Aufnahme, M4A-Songexport und MPRIS-Mediensteuerung. Ein TAR.GZ-Installer ist verfügbar; Qt und libVLC 3 kommen aus Systempaketen.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** bietet eine native Qt-6-Desktop-App für x86-64 mit sieben Themes, Titelverlauf, optionaler Aufnahme, M4A-Songexport und MPRIS-Mediensteuerung. Mit einem optionalen Puffer lassen sich laufende MP3- und AAC-ADTS-Streams pausieren und zeitversetzt fortsetzen. Ein TAR.GZ-Installer ist verfügbar. Qt und libVLC 3 kommen aus Systempaketen.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** bietet eine Rust/Tauri-Desktop-App und die CLI mit gemeinsamer Swift-Dateiverarbeitung. Installation und Updates sind in der Linux-Anleitung beschrieben.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** wandelt Zwischenablage-Inhalte per Kommandozeile in Markdown um und unterstützt X11 und Wayland.
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** bietet eine Qt-6-Desktop-App mit Tracker, Notenregen, Sammlungen und Exporten sowie eine separate CLI. Signierte Updates sind ab 1.6.58 integriert.

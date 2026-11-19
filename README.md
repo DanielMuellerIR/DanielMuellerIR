@@ -10,9 +10,9 @@ My website: [dm0.de](https://dm0.de)
 
 ## Productivity
 
-- **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** is a dual-pane file manager for macOS and Linux. It copies and moves files, previews synchronization and connects to remote servers. First public preview.
+- **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** is a dual-pane file manager for macOS and Linux. It copies and moves files locally and on remote servers, saves synchronization jobs and previews the planned changes. It can resume interrupted transfers and browse and extract ZIP and TAR archives.
 - **[fastra](https://github.com/DanielMuellerIR/fastra)** is a native macOS text editor with replacement previews, Git tools, 4D support and local Markdown editing. A Rust/GTK Linux app is in development and does not yet offer every Mac feature.
-- **[favenio](https://github.com/DanielMuellerIR/favenio)** searches files without building an index, including document text and nested archives. It has desktop apps for macOS and Linux and a command-line interface; macOS also has Finder quick search.
+- **[favenio](https://github.com/DanielMuellerIR/favenio)** searches files without building an index, including document text and nested archives. An optional setting recognizes text in screenshots embedded in PowerPoint files. It has desktop apps for macOS and Linux and a command-line interface. macOS also has Finder quick search.
 - **[stille_post](https://github.com/DanielMuellerIR/stille_post)** turns speech into text locally with Whisper on macOS and Linux. It includes a hotkey, dictation profiles, searchable history, optional text cleanup and result review. Physical-device acceptance on Linux is still pending.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** edits metadata in audio, images, video and e-books, individually or in batches. Desktop apps for macOS and Linux and the command-line tool also inspect electronic invoices without changing them.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** converts formatted clipboard text to Markdown. The command-line tool runs on macOS and Linux; macOS also has a Dock app.
@@ -51,7 +51,7 @@ These projects also run on Linux. The list distinguishes desktop apps from
 command-line tools; a Linux version does not imply the macOS interface is available.
 
 - **[Doppeldecker](https://github.com/DanielMuellerIR/Doppeldecker)** has a desktop app and command-line interface, with DEB and AppImage packages for x86_64.
-- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** has a native Qt 6 desktop app for x86-64, with seven themes, listening history, optional recording, M4A song export and MPRIS media controls. A TAR.GZ installer is available; Qt and libVLC 3 come from system packages.
+- **[mucke_baby](https://github.com/DanielMuellerIR/mucke_baby)** has a native Qt 6 desktop app for x86-64, with seven themes, listening history, optional recording, M4A song export and MPRIS media controls. An optional buffer lets you pause and resume live MP3 and AAC-ADTS streams. A TAR.GZ installer is available. Qt and libVLC 3 come from system packages.
 - **[tag_explosion](https://github.com/DanielMuellerIR/tag_explosion)** has a Rust/Tauri desktop app and CLI sharing the Swift file-processing core. Its Linux guide covers installation and updates.
 - **[md-clip](https://github.com/DanielMuellerIR/md-clip)** converts clipboard content to Markdown from the command line, with X11 and Wayland support.
 - **[savage_modplayer](https://github.com/DanielMuellerIR/savage_modplayer)** has a Qt 6 desktop app with tracker, note rain, collections and exports, plus a separate CLI. Signed updates are integrated from 1.6.58.
